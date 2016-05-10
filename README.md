@@ -2,7 +2,7 @@
 
 ### What?
 
-This is thie [alabaster skin](https://github.com/tonsky/alabaster-lighttable-skin) for Android Studio.
+This is the [alabaster skin](https://github.com/tonsky/alabaster-lighttable-skin) for Android Studio.
 
 It's a good idea to use the [FiraCode](https://github.com/tonsky/FiraCode) font.
 
