@@ -8,6 +8,12 @@ It's a good idea to use the [FiraCode](https://github.com/tonsky/FiraCode) font.
 
 All credit goes to [@tonsky](https://github.com/tonsky)
 
+### Installing
+
+Place this file in `~/Library/Preferences/AndroidStudioX.X/colors/`.
+
+The `X.X` would be whatever version you're currently running.
+
 ### Screenshot
 
 ![Alabaster Android](ala-android.png)
